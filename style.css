@@ -1,0 +1,31 @@
+
+#bird1,#bird2{
+    background-image: url('./img/pngegg\ \(3\).png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 20%;
+    left: 50px;
+    width: 200px;
+    height: 150px;
+}
+ 
+.c1{
+  background-color: aqua;
+  height: 200px;
+  width: 90%;
+  margin: 30px auto;
+  position: relative;
+}
+
+.pipe{
+    width: 10px;
+    background-color: red;
+    height: 199px;
+    position: absolute;
+    right: 150px;
+}
+
+
+
+
